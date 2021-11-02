@@ -26,5 +26,4 @@ pip install -r requirements.txt
 Replace the following things in the code
 client.run('Add in your discord token')
 general= client.get_channel('Add your channel id')
-Video Link : //Click on the image to view the video
-Watch the video
+
